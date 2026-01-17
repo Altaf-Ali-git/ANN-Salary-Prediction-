@@ -71,6 +71,8 @@ To run the app:
 
 streamlit run app.py
 
+👨‍💻 Author
+
 Name: Altaf Ali
 
 Role: Data Science / Machine Learning Enthusiast
